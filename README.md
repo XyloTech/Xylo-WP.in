@@ -1,10 +1,4 @@
 
-*Project Name*: Xylo-WP.in  
-*Tagline: *AI-Powered WhatsApp Bot using Web Automation
-
----
-
-markdown
 # Xylo-WP.in  
 **AI-Powered WhatsApp Chatbot Using Web Automation – 100% Free, No API Required**
 
